@@ -1,5 +1,6 @@
 # ufc
 UFC using GCNN
+
 A GCNN-Based method for functional zone recognition by integrating building spatial morphology and courtyard-level context (Submitted to Transactions in GIS)
 
 This project is an open source implementation of the graph convolutional neural network for classification of functional zone recognition with courtyard-level context.
